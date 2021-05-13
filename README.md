@@ -1,6 +1,12 @@
 # meddiff-assessment
 This Repo contains the solution for various problem statements. Such as Palindrom, group files by owner name, Custom Change Directory operation, Parse Error logs lines and write into a different log file.
 
+How to Run the application:
+
+1. open project in visual studio
+2. Build and Run the project which will run Problem 1-4 solutions
+3. Alternatively, each problem is segregated into a function which can be copied and used individually.
+
 Problem 1 (Group files according to owner names):
 
 Algorithm crafted: 
