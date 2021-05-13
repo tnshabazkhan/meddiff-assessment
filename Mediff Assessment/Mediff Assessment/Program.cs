@@ -32,7 +32,7 @@ namespace Mediff_Assessment
             string outputFilePath = logParser.segregateErrorAndWarningLogs(logFilePath);
             Console.WriteLine(outputFilePath);
 
-            //Problem 4 - Parse Logs for Errors and Warnings
+            //Problem 4 - Custom Change Directory
             Path path = new Path(@"/ABCD/AF/a");
             string resultString;
 
