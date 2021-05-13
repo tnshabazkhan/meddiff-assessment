@@ -1,0 +1,19 @@
+2012-02-03 18:35:34 SampleClass4 [FATAL] system problem at id 1991281254
+2012-02-03 18:35:34 SampleClass3 [WARN] missing id 423340895
+2012-02-03 18:35:34 SampleClass0 [ERROR] incorrect id  1886438513
+2012-02-03 18:40:36 SampleClass9 [WARN] missing id 715082426
+2012-02-03 18:55:54 SampleClass1 [ERROR] incorrect id  1159281532
+2012-02-03 18:55:54 SampleClass0 [WARN] missing id 2060960425
+java.lang.Exception: 2012-02-03 19:11:02 SampleClass8 [WARN] problem finding id 153454612
+2012-02-03 19:25:27 SampleClass4 [ERROR] incorrect id  922985906
+java.lang.Exception: 2012-02-03 19:25:27 SampleClass5 [WARN] problem finding id 1561591085
+java.lang.Exception: 2012-02-03 19:40:18 SampleClass4 [WARN] problem finding id 284365737
+java.lang.Exception: 2012-02-03 19:40:18 SampleClass1 [ERROR] incorrect format for id 671681594
+java.lang.Exception: 2012-02-03 19:45:42 SampleClass5 [WARN] problem finding id 331889446
+java.lang.Exception: 2012-02-03 19:58:39 SampleClass6 [WARN] problem finding id 11195483
+java.lang.Exception: 2012-02-03 19:58:39 SampleClass4 [ERROR] incorrect format for id 1919705250
+2012-02-03 20:04:31 SampleClass5 [WARN] missing id 1739629012
+java.lang.Exception: 2012-02-03 20:11:35 SampleClass5 [WARN] problem finding id 404455085
+java.lang.Exception: 2012-02-03 20:11:35 SampleClass2 [FATAL] unrecoverable system problem at id 609774657
+java.lang.Exception: 2012-02-03 20:11:35 SampleClass1 [ERROR] incorrect format for id 1088486137
+java.lang.Exception: 2012-02-03 20:11:56 SampleClass5 [WARN] problem finding id 1358451042

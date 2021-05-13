@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mediff Assessment/1.0.0": {
+        "runtime": {
+          "Mediff Assessment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mediff Assessment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
